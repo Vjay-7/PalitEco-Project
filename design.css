@@ -342,6 +342,26 @@ select:focus{
 .single-product .col-2{
      padding: 20px;
 }
+.single-product h4{
+     margin: 20px;
+     font-size: 22px;
+     font-weight: bold;
+}
+.single-product input{
+     width: 50px;
+     height: 40px;
+     padding-left: 10px;
+     font-size: 20px;
+     margin-right: 10px;
+     border: 1px solid #ff523b;
+}
+input:focus{
+     outline: none;
+}
+.single-product .fa{
+     color: #ff523b;
+     margin-left: 10px;
+}
 
 
 /*-----media query for less than 600 screen size-----*/
